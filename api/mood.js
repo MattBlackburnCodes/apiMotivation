@@ -6,8 +6,8 @@ export default function handler(req, res) {
     if (req.method === 'OPTIONS') {
         return res.status(200).end();
     }
-    const motivation = [
-        [
+    const mood = {
+        motivation: [
             { "id": 1, "q": "You don’t need a perfect plan — you need a first step." },
             { "id": 2, "q": "Small progress is still progress. Don’t downplay it." },
             { "id": 3, "q": "The version of you that started would be proud you kept going." },
@@ -62,8 +62,64 @@ export default function handler(req, res) {
             { "id": 48, "q": "You are capable of more than today’s doubt." },
             { "id": 49, "q": "Keep going — the version of you you’re becoming is worth it." },
             { "id": 50, "q": "One good decision can change the entire day." }
-]
-    ]
+        ],
+        calm: [
+            { id: 1, q: "Breathe in slowly. You are safe in this moment." },
+            { id: 2, q: "Nothing needs to be solved right now." },
+            { id: 3, q: "Let your shoulders drop. You don’t need to carry everything." },
+            { id: 4, q: "Peace begins the moment you stop forcing answers." },
+            { id: 5, q: "Slow down. Your nervous system will thank you." },
+            { id: 6, q: "This moment is allowed to be quiet." },
+            { id: 7, q: "You are not behind. You are right here." },
+            { id: 8, q: "Calm is not the absence of chaos, but your response to it." },
+            { id: 9, q: "Unclench your jaw. Relax your breath." },
+            { id: 10, q: "Stillness is productive too." },
 
-    res.status(200).json(motivation);
+            { id: 11, q: "You don’t need to rush to be worthy." },
+            { id: 12, q: "Peace comes from letting things unfold naturally." },
+            { id: 13, q: "Your breath is an anchor. Use it." },
+            { id: 14, q: "It’s okay to pause without a reason." },
+            { id: 15, q: "Nothing important is asking you to panic." },
+            { id: 16, q: "Gentle progress is still progress." },
+            { id: 17, q: "Release what you can’t control." },
+            { id: 18, q: "Quiet moments restore loud minds." },
+            { id: 19, q: "You are allowed to move at your own pace." },
+            { id: 20, q: "Ease is a skill you can practice." },
+
+            { id: 21, q: "You don’t have to think your way out of everything." },
+            { id: 22, q: "Calm is choosing softness in a hard moment." },
+            { id: 23, q: "Let today be simple." },
+            { id: 24, q: "Your presence is enough." },
+            { id: 25, q: "The answer can wait. Your peace can’t." },
+            { id: 26, q: "Inhale calm. Exhale tension." },
+            { id: 27, q: "Nothing bad happens when you slow your breathing." },
+            { id: 28, q: "This moment doesn’t require perfection." },
+            { id: 29, q: "Rest is not a reward — it’s a need." },
+            { id: 30, q: "Peace grows where pressure fades." },
+
+            { id: 31, q: "You are allowed to choose calm." },
+            { id: 32, q: "Quiet confidence comes from trusting yourself." },
+            { id: 33, q: "Not everything needs a reaction." },
+            { id: 34, q: "Softness is strength too." },
+            { id: 35, q: "The present moment is rarely as urgent as it feels." },
+            { id: 36, q: "Let the day breathe with you." },
+            { id: 37, q: "You don’t need permission to slow down." },
+            { id: 38, q: "Calm arrives when you stop chasing certainty." },
+            { id: 39, q: "Gentle thoughts create gentle days." },
+            { id: 40, q: "Peace is found in acceptance, not control." },
+
+            { id: 41, q: "You are safe to relax right now." },
+            { id: 42, q: "Stillness helps you hear what matters." },
+            { id: 43, q: "There is no rush in healing." },
+            { id: 44, q: "Let this moment be enough." },
+            { id: 45, q: "Calm is choosing clarity over chaos." },
+            { id: 46, q: "Your breath knows how to guide you." },
+            { id: 47, q: "Peace doesn’t ask for effort — only allowance." },
+            { id: 48, q: "Slow moments create strong foundations." },
+            { id: 49, q: "Nothing is wrong with taking your time." },
+            { id: 50, q: "Right now, you are okay." }
+        ]
+    }
+
+    res.status(200).json(mood);
 }

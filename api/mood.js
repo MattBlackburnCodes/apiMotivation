@@ -7,7 +7,7 @@ export default function handler(req, res) {
         return res.status(200).end();
     }
     const mood = {
-        motivation: [
+        motivate: [
             { "id": 1, "q": "You don’t need a perfect plan — you need a first step." },
             { "id": 2, "q": "Small progress is still progress. Don’t downplay it." },
             { "id": 3, "q": "The version of you that started would be proud you kept going." },

@@ -118,6 +118,67 @@ export default function handler(req, res) {
             { id: 48, q: "Slow moments create strong foundations." },
             { id: 49, q: "Nothing is wrong with taking your time." },
             { id: 50, q: "Right now, you are okay." }
+        ],
+        inspire: [
+            { "id": 1, "q": "You are becoming stronger every time you refuse to quit." },
+            { "id": 2, "q": "Even slow steps move you forward." },
+            { "id": 3, "q": "You don’t need proof to believe in yourself — start anyway." },
+            { "id": 4, "q": "Your effort today is shaping a better tomorrow." },
+            { "id": 5, "q": "You are capable of more than you’ve allowed yourself to try." },
+
+            { "id": 6, "q": "Growth begins the moment you stop doubting your worth." },
+            { "id": 7, "q": "You don’t have to be fearless — just willing." },
+            { "id": 8, "q": "Every challenge is teaching you something valuable." },
+            { "id": 9, "q": "Your future self will thank you for not giving up." },
+            { "id": 10, "q": "You are allowed to grow beyond who you used to be." },
+
+            { "id": 11, "q": "Strength is built quietly, one choice at a time." },
+            { "id": 12, "q": "You don’t need a new life — you need new habits." },
+            { "id": 13, "q": "What you do today matters more than what you did yesterday." },
+            { "id": 14, "q": "Believe in the version of you that keeps showing up." },
+            { "id": 15, "q": "You are not starting over — you are starting wiser." },
+
+            { "id": 16, "q": "Let effort be louder than doubt." },
+            { "id": 17, "q": "You are closer to change than you realize." },
+            { "id": 18, "q": "Progress doesn’t need permission." },
+            { "id": 19, "q": "Your resilience is stronger than this moment." },
+            { "id": 20, "q": "Keep building, even when the results feel distant." },
+
+            { "id": 21, "q": "You grow every time you choose courage over comfort." },
+            { "id": 22, "q": "The path forward becomes clearer when you keep moving." },
+            { "id": 23, "q": "You are allowed to take up space in your own life." },
+            { "id": 24, "q": "Trust the work you’re putting in." },
+            { "id": 25, "q": "Your persistence is creating something meaningful." },
+
+            { "id": 26, "q": "You don’t need everything figured out to move forward." },
+            { "id": 27, "q": "What feels heavy now is making you stronger." },
+            { "id": 28, "q": "You are becoming more capable with every challenge." },
+            { "id": 29, "q": "Small steps can lead to powerful change." },
+            { "id": 30, "q": "Your journey is unfolding exactly as it needs to." },
+
+            { "id": 31, "q": "You have survived every hard day so far." },
+            { "id": 32, "q": "Your effort has value, even when it goes unnoticed." },
+            { "id": 33, "q": "You don’t need approval to believe in your direction." },
+            { "id": 34, "q": "Your determination is building momentum." },
+            { "id": 35, "q": "You are learning how strong you really are." },
+
+            { "id": 36, "q": "Each day is a new opportunity to show up for yourself." },
+            { "id": 37, "q": "You are allowed to hope again." },
+            { "id": 38, "q": "Growth is happening, even when it feels quiet." },
+            { "id": 39, "q": "You are capable of creating a life you’re proud of." },
+            { "id": 40, "q": "Let today be proof that you didn’t give up." },
+
+            { "id": 41, "q": "You don’t have to rush — just keep going." },
+            { "id": 42, "q": "Your courage is stronger than your fear." },
+            { "id": 43, "q": "You are building something meaningful, step by step." },
+            { "id": 44, "q": "Your belief in yourself is growing — trust it." },
+            { "id": 45, "q": "You are allowed to move forward at your own pace." },
+
+            { "id": 46, "q": "You are stronger today than you were yesterday." },
+            { "id": 47, "q": "Your effort is shaping the person you’re becoming." },
+            { "id": 48, "q": "You are not defined by setbacks." },
+            { "id": 49, "q": "Keep choosing progress over doubt." },
+            { "id": 50, "q": "You are becoming the proof you once needed." }
         ]
     }
 

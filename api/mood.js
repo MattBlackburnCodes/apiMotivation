@@ -119,7 +119,7 @@ export default function handler(req, res) {
             { id: 49, q: "Nothing is wrong with taking your time." },
             { id: 50, q: "Right now, you are okay." }
         ],
-        inspire: [
+        inspired: [
             { "id": 1, "q": "You are becoming stronger every time you refuse to quit." },
             { "id": 2, "q": "Even slow steps move you forward." },
             { "id": 3, "q": "You don’t need proof to believe in yourself — start anyway." },

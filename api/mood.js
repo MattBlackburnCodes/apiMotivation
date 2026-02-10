@@ -179,6 +179,67 @@ export default function handler(req, res) {
             { "id": 48, "q": "You are not defined by setbacks." },
             { "id": 49, "q": "Keep choosing progress over doubt." },
             { "id": 50, "q": "You are becoming the proof you once needed." }
+        ],
+        funny: [
+            { "id": 1, "q": "Why don’t skeletons fight each other?\nThey don’t have the guts." },
+            { "id": 2, "q": "Why did the scarecrow get promoted?\nBecause he was outstanding in his field." },
+            { "id": 3, "q": "Why don’t eggs tell jokes?\nThey’d crack under pressure." },
+            { "id": 4, "q": "Why did the math book look sad?\nIt had too many problems." },
+            { "id": 5, "q": "Why did the computer go to therapy?\nIt had too many unresolved issues." },
+
+            { "id": 6, "q": "Why don’t programmers like nature?\nToo many bugs." },
+            { "id": 7, "q": "Why did the calendar get nervous?\nIts days were numbered." },
+            { "id": 8, "q": "Why did the coffee file a police report?\nIt got mugged." },
+            { "id": 9, "q": "Why did the bicycle fall over?\nIt was two-tired." },
+            { "id": 10, "q": "Why don’t secrets last in a bakery?\nToo much gossip about the dough." },
+
+            { "id": 11, "q": "Why did the phone need glasses?\nIt lost all its contacts." },
+            { "id": 12, "q": "Why did the tomato turn red?\nIt saw the salad dressing." },
+            { "id": 13, "q": "Why did the music teacher go to jail?\nToo many sharp notes." },
+            { "id": 14, "q": "Why don’t elevators tell jokes?\nThey always let people down." },
+            { "id": 15, "q": "Why did the golfer bring two pairs of pants?\nIn case he got a hole in one." },
+
+            { "id": 16, "q": "Why did the scarecrow become a motivational speaker?\nHe already knew how to lift spirits." },
+            { "id": 17, "q": "Why did the picture go to jail?\nIt was framed." },
+            { "id": 18, "q": "Why did the keyboard break up with the mouse?\nToo many clicks, not enough connection." },
+            { "id": 19, "q": "Why did the stadium get hot after the game?\nAll the fans left." },
+            { "id": 20, "q": "Why don’t cows have social media?\nThey already get milked enough." },
+
+            { "id": 21, "q": "Why did the pencil stop working?\nIt lost its point." },
+            { "id": 22, "q": "Why did the chef quit his job?\nToo much on his plate." },
+            { "id": 23, "q": "Why don’t mountains ever get tired?\nThey peak efficiently." },
+            { "id": 24, "q": "Why did the clock go to therapy?\nIt was stuck in the past." },
+            { "id": 25, "q": "Why did the Wi-Fi break up with the router?\nThe connection just wasn’t strong anymore." },
+
+            { "id": 26, "q": "Why did the notebook feel important?\nIt had a lot of pages." },
+            { "id": 27, "q": "Why don’t candles ever argue?\nThey prefer to keep things light." },
+            { "id": 28, "q": "Why did the shoe get promoted?\nIt really stepped up." },
+            { "id": 29, "q": "Why did the cloud stay home?\nIt was feeling under the weather." },
+            { "id": 30, "q": "Why did the fridge win an award?\nIt kept things cool under pressure." },
+
+            { "id": 31, "q": "Why don’t pirates take showers before walking the plank?\nThey just wash up on shore." },
+            { "id": 32, "q": "Why did the banana go to the doctor?\nIt wasn’t peeling well." },
+            { "id": 33, "q": "Why did the mirror get offended?\nIt couldn’t reflect on the comment." },
+            { "id": 34, "q": "Why don’t secrets work in elevators?\nThey always come out." },
+            { "id": 35, "q": "Why did the battery feel confident?\nIt was fully charged." },
+
+            { "id": 36, "q": "Why did the book join the gym?\nIt wanted stronger covers." },
+            { "id": 37, "q": "Why did the lamp feel proud?\nIt finally saw the light." },
+            { "id": 38, "q": "Why did the printer break up with the paper?\nToo many bad impressions." },
+            { "id": 39, "q": "Why don’t alarms ever get invited out?\nThey’re always ringing too early." },
+            { "id": 40, "q": "Why did the backpack feel stressed?\nIt was carrying too much." },
+
+            { "id": 41, "q": "Why did the pen get kicked out of school?\nIt couldn’t stop making marks." },
+            { "id": 42, "q": "Why did the ice cream truck break down?\nIt drove itself into a meltdown." },
+            { "id": 43, "q": "Why did the calendar bring snacks?\nIt knew the day was long." },
+            { "id": 44, "q": "Why don’t light bulbs gossip?\nThey don’t want to get switched off." },
+            { "id": 45, "q": "Why did the pillow feel accomplished?\nIt finally rested on its work." },
+
+            { "id": 46, "q": "Why did the plant start a podcast?\nIt wanted to branch out." },
+            { "id": 47, "q": "Why did the elevator get embarrassed?\nIt couldn’t handle the pressure." },
+            { "id": 48, "q": "Why did the notebook apply for a job?\nIt had a lot to write home about." },
+            { "id": 49, "q": "Why did the sock feel lonely?\nIt lost its sole mate." },
+            { "id": 50, "q": "Why did the alarm clock feel unappreciated?\nIt was always the bad guy." }
         ]
     }
 
